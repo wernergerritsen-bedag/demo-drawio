@@ -18,6 +18,8 @@ docker run \
     jgraph/drawio
 
 ## Mit kubectl
+```bash
 kubectl create -f drawio.yaml
+```
 
-Ohne https://localhost:447/
+URL Result: https://localhost:447/
